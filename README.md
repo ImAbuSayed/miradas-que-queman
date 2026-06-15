@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esas miradas que queman en la oscuridad
+> Tú me provocas, nena, dime si es verdad
+> Quiero sentir tu fuego cerquita de mí
+> Esta noche en la disco tú eres para mí
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
