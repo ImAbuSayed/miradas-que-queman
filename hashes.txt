@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Miradas que queman
+
+This log tracks the cryptographic history and versioning for the song **Miradas que queman** (miradas-que-queman).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:45:45.192386 | `v1` | `4ff518badf10e0640ec250d19a25c236c977a342d9096ce24c7c25698bdddb40` | `1279ef4e032388b4c9f875dd01fe6b46ba6ae64586472faf089e808430901eb2` | `2026-06-15_miradas-que-queman-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
